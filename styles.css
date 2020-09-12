@@ -1,12 +1,12 @@
 body {
-	font-family: Noway;
+	font-family: Manorama;
 	margin:0px;
 }
 
 @font-face {
-  font-family: 'Noway';
+  font-family: 'Manorama';
   font-style: normal;
-  font-weight: 300;
+/*   font-weight: 300; */
   /*font-display: swap;*/
   src: url(fonts/noway-regular-webfont.eot); /* For IE6-8 */
   src: local('Noway Regular'), local('Noway-Regular'),
