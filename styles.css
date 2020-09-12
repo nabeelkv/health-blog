@@ -8,12 +8,12 @@ body {
   font-style: normal;
 /*   font-weight: 300; */
   /*font-display: swap;*/
-  src: url(fonts/noway-regular-webfont.eot); /* For IE6-8 */
+  src: url(/fonts/MANO31.eot); /* For IE6-8 */
   src: local('Noway Regular'), local('Noway-Regular'),
-    url(fonts/noway-regular-webfont.woff2)
+    url(/fonts/MANO31.woff2)
       format('woff2'),
-    url(fonts/noway-regular-webfont.woff)
+    url(/fonts/MANO31.woff)
       format('woff'),
-    url(fonts/noway.ttf)
+    url(/fonts/MANO31.ttf)
       format('truetype');
 }
