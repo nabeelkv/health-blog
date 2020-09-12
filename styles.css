@@ -3,11 +3,11 @@
   font-style: normal;
 /*   font-weight: 300; */
   /*font-display: swap;*/
-  src: url(fonts/MANO31.eot); /* For IE6-8 */
+  src: url(https://nabeelkv.github.io/health-blog/fonts/MANO31.eot); /* For IE6-8 */
   src: local('Manorama'), local('Manorama'),
-    url(fonts/MANO31.woff)
+    url(https://nabeelkv.github.io/health-blog/fonts/MANO31.woff)
       format('woff'),
-    url(fonts/MANO31.ttf)
+    url(https://nabeelkv.github.io/health-blog/fonts/MANO31.ttf)
       format('truetype');
 }
 
